@@ -19,11 +19,12 @@ SQLite를 사용하여 데이터베이스에 지출내역을 기록하고 일별
 - Service에서 동작을 처리 및 데이터는 DB로 전달
 - DB에서 값을 불러올 경우 Model로 전달
 - Model에 저장된 값을 Adapter를 통해 Layout에 구현
-- <br/><br/>
+
+<br/><br/>
 
 
 ### 💻 기술 스택
-- **Front-End:** `XML``
+- **Front-End:** `XML`
 - **Back-End:** `Java`
 - **DataBase:** `SQLite`
 - **Tools:** `Android Studio`
@@ -38,7 +39,8 @@ SQLite를 사용하여 데이터베이스에 지출내역을 기록하고 일별
       <img width=100% src="https://github.com/hkyuuu00/AccountBook/assets/155419559/bc549ede-ec0b-4d29-a7d3-9ec33b45950a">
     </td>
     <td>
-    <strong></strong>
+      <strong>일별 조회:</strong> 달력의 날짜를 클릭하여 일별 지출 조회
+      <strong>추가 버튼:</strong> 추가 버튼을 통해 지출 내역을 추가하는 화면으로 이동
     </td>
   </tr>
 </table>
@@ -51,7 +53,8 @@ SQLite를 사용하여 데이터베이스에 지출내역을 기록하고 일별
       <img width=100% src="https://github.com/hkyuuu00/AccountBook/assets/155419559/c971f317-e850-4949-9d66-b03f6c13c93b">
     </td>
     <td>
-    <strong></strong>
+      <strong>지출 작성:</strong> 날짜, 카테고리, 사용내역, 금액을 작성
+      <strong>추가 버튼:</strong> 추가 버튼을 통해 데이터베이스에 저장 후 메인 화면으로 이동
     </td>
   </tr>
 </table>
@@ -64,7 +67,8 @@ SQLite를 사용하여 데이터베이스에 지출내역을 기록하고 일별
       <img width=100% src="https://github.com/hkyuuu00/AccountBook/assets/155419559/fa720473-f693-4acf-8559-e563d4be84d8">
     </td>
     <td>
-    <strong></strong>
+      <strong>날짜 선택:</strong> 스피너를 돌려 월별 지출을 조회가능
+      <strong>월별 지출:</strong> 해당 월의 지출 내역과 정보, 한달 총 사용금액을 보여줌
     </td>
   </tr>
 </table>
@@ -77,7 +81,8 @@ SQLite를 사용하여 데이터베이스에 지출내역을 기록하고 일별
       <img width=100% src="https://github.com/hkyuuu00/AccountBook/assets/155419559/83abdd8d-9a95-4324-8e21-f5a0a1c302e1">
     </td>
     <td>
-    <strong></strong>
+      <strong>날짜 선택:</strong> 스피너를 돌려 월별 지출을 조회가능
+      <strong>카테고리별 지출:</strong> 해당 월의 카테고리별 지출 비율과 그래프를 통해 한눈에 보기 쉽게 나타냄
     </td>
   </tr>
 </table>
@@ -90,16 +95,11 @@ SQLite를 사용하여 데이터베이스에 지출내역을 기록하고 일별
       <img width=100% src="https://github.com/hkyuuu00/AccountBook/assets/155419559/ed87e63b-85d2-4675-8df1-6647492eb425">
     </td>
     <td>
-    <strong></strong>
+      <strong>항목 삭제:</strong> 지출내역 리스트에서 삭제하고 싶은 내역을 클릭하여 삭제
     </td>
   </tr>
 </table>
 <br/><br/><br/>
-
-<img width=100% src="https://github.com/hkyuuu00/SeoulParkingInfo/assets/155419559/3ca54a54-9cb3-459d-8bf6-d93c9a3e081b"><br/><br/>
-- **위치정보:** 해당 주차장의 위치정보를 지도를 통해 확인<br/>
-- **상세정보:** 요일별 운영 시간과 시간별 금액을 확인할 수 있으며, 실시간 주차 공간을 확인 가능<br/><br/><br/>
-
 
 ### 🛠 문제 해결 과정
 <table>
