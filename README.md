@@ -26,7 +26,7 @@ SQLite를 사용하여 데이터베이스에 지출내역을 기록하고 일별
 ### 💻 기술 스택
 - **Front-End:** `XML`
 - **Back-End:** `Java`
-- **DataBase:** `SQLite`
+- **DataBase:** ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 - **Tools:** `Android Studio`
 <br/>
 
