@@ -101,6 +101,8 @@ SQLite를 사용하여 데이터베이스에 지출내역을 기록하고 일별
 </table>
 <br/><br/><br/>
 
+### 🎧 <a href="https://youtu.be/RpYklg-3kIg">시연영상</a>
+</br></br></br></br>
 
 ## ⚙️ 프로젝트 설치 및 실행 방법
 
