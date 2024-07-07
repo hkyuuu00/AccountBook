@@ -33,7 +33,7 @@ SQLite를 사용하여 데이터베이스에 지출내역을 기록하고 일별
 ### ✨ 주요 기능 및 이미지
 
 #### 📌 일별 지출 확인
-<table width="50%">
+<table>
   <tr>
     <td>
       <img width=100% src="https://github.com/hkyuuu00/AccountBook/assets/155419559/bc549ede-ec0b-4d29-a7d3-9ec33b45950a">
@@ -82,7 +82,7 @@ SQLite를 사용하여 데이터베이스에 지출내역을 기록하고 일별
     </td>
     <td>
       <strong>날짜 선택:</strong> 스피너를 돌려 월별 지출을 조회가능<br/>
-      <strong>카테고리별 지출:</strong> 해당 월의 카테고리별 지출 비율과 그래프를 통해 한눈에 보기 쉽게 나타냄
+      <strong>카테고리별 지출:</strong> 해당 월의 카테고리별 지출 비율과 그래프를 통해<br/> 한눈에 보기 쉽게 나타냄
     </td>
   </tr>
 </table>
