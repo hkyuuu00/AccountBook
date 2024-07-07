@@ -101,38 +101,9 @@ SQLite를 사용하여 데이터베이스에 지출내역을 기록하고 일별
 </table>
 <br/><br/><br/>
 
-### 🛠 문제 해결 과정
-<table>
-  <tr>
-    <td>
-    <strong>문제</strong>
-    </td>
-    <td>
-    <strong></strong>
-    </td>
-  </tr>
-  <tr>
-    <td>원인</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>해결</td>
-    <td></td>
-  </tr>
-</table>
-
-<br/><br/>
 
 ## ⚙️ 프로젝트 설치 및 실행 방법
 
-### 📝 Prerequisites
-- Node.js 14.x 이상
-- Docker 20.x 이상
-
 ### 📦 설치 방법
-프로젝트를 로컬에 설치하는 방법을 단계별로 설명합니다.
-
-```sh
-git clone https://github.com/your-username/your-project.git
-cd your-project
-npm install
+- Android Studio에서 Build > Build Bundle(s) / APK(s) > Build APK(s) 클릭
+- Android Studio/AccountBook/app/build/outputs/apk/debug 폴더에 있는 app-debug.apk파일을 안드로이드 폰에서 실행 or NOX 프로그램으로 작동가능
