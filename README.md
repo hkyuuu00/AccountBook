@@ -33,7 +33,7 @@ SQLite를 사용하여 데이터베이스에 지출내역을 기록하고 일별
 ### ✨ 주요 기능 및 이미지
 
 #### 📌 일별 지출 확인
-<table>
+<table width="50%">
   <tr>
     <td>
       <img width=100% src="https://github.com/hkyuuu00/AccountBook/assets/155419559/bc549ede-ec0b-4d29-a7d3-9ec33b45950a">
