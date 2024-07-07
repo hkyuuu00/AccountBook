@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="HOME"
+        />
+    <item
+        android:id="@+id/monthlyExpenses"
+        android:title="월별 지출내역"
+        />
+    <item
+        android:id="@+id/spendingCategory"
+        android:title="카테고리별 지출"
+        />
+    <item
+        android:id="@+id/delete"
+        android:title="항목 삭제"
+        />
+</menu>
