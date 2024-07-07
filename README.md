@@ -24,7 +24,7 @@ SQLite를 사용하여 데이터베이스에 지출내역을 기록하고 일별
 
 
 ### 💻 기술 스택
-- **Language**  &nbsp;&nbsp;![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+- **Language**  &nbsp;&nbsp;![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 - **Build** &nbsp;&nbsp;![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 - **DataBase** &nbsp;&nbsp;![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 - **Tools** &nbsp;&nbsp;![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
