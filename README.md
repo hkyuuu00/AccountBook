@@ -39,7 +39,7 @@ SQLite를 사용하여 데이터베이스에 지출내역을 기록하고 일별
       <img width=100% src="https://github.com/hkyuuu00/AccountBook/assets/155419559/bc549ede-ec0b-4d29-a7d3-9ec33b45950a">
     </td>
     <td>
-      <strong>일별 조회:</strong> 달력의 날짜를 클릭하여 일별 지출 조회
+      <strong>일별 조회:</strong> 달력의 날짜를 클릭하여 일별 지출 조회<br/>
       <strong>추가 버튼:</strong> 추가 버튼을 통해 지출 내역을 추가하는 화면으로 이동
     </td>
   </tr>
@@ -53,7 +53,7 @@ SQLite를 사용하여 데이터베이스에 지출내역을 기록하고 일별
       <img width=100% src="https://github.com/hkyuuu00/AccountBook/assets/155419559/c971f317-e850-4949-9d66-b03f6c13c93b">
     </td>
     <td>
-      <strong>지출 작성:</strong> 날짜, 카테고리, 사용내역, 금액을 작성
+      <strong>지출 작성:</strong> 날짜, 카테고리, 사용내역, 금액을 작성<br/>
       <strong>추가 버튼:</strong> 추가 버튼을 통해 데이터베이스에 저장 후 메인 화면으로 이동
     </td>
   </tr>
@@ -67,7 +67,7 @@ SQLite를 사용하여 데이터베이스에 지출내역을 기록하고 일별
       <img width=100% src="https://github.com/hkyuuu00/AccountBook/assets/155419559/fa720473-f693-4acf-8559-e563d4be84d8">
     </td>
     <td>
-      <strong>날짜 선택:</strong> 스피너를 돌려 월별 지출을 조회가능
+      <strong>날짜 선택:</strong> 스피너를 돌려 월별 지출을 조회가능<br/>
       <strong>월별 지출:</strong> 해당 월의 지출 내역과 정보, 한달 총 사용금액을 보여줌
     </td>
   </tr>
@@ -81,7 +81,7 @@ SQLite를 사용하여 데이터베이스에 지출내역을 기록하고 일별
       <img width=100% src="https://github.com/hkyuuu00/AccountBook/assets/155419559/83abdd8d-9a95-4324-8e21-f5a0a1c302e1">
     </td>
     <td>
-      <strong>날짜 선택:</strong> 스피너를 돌려 월별 지출을 조회가능
+      <strong>날짜 선택:</strong> 스피너를 돌려 월별 지출을 조회가능<br/>
       <strong>카테고리별 지출:</strong> 해당 월의 카테고리별 지출 비율과 그래프를 통해 한눈에 보기 쉽게 나타냄
     </td>
   </tr>
